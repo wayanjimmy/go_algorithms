@@ -26,5 +26,5 @@ func FactorialRecursive(num int) int {
 	if num == 1 {
 		return num
 	}
-	return num * FactorialIterative(num-1)
+	return num * FactorialRecursive(num-1)
 }
