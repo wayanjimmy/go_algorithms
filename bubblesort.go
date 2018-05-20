@@ -1,4 +1,4 @@
-package sorting
+package main
 
 func swap(a []int, i, j int) {
 	tmp := a[j]

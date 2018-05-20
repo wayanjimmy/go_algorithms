@@ -1,10 +1,10 @@
-package math
+package main
 
 import "testing"
 
 func TestFactorialIterative(t *testing.T) {
 	if FactorialIterative(1) != 1 {
-		t.Error("Expected 1")
+		t.Error("Expected 3")
 	}
 	if FactorialIterative(2) != 2 {
 		t.Error("Expected 2")

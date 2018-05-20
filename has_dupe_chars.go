@@ -1,4 +1,4 @@
-package strings
+package main
 
 // HasDupeChars will return false if string contains duplicate char
 func HasDupeChars(s string) bool {
