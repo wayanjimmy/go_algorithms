@@ -9,7 +9,7 @@ Factorial(4)
 4 * 3 * 2 * 1
 */
 
-package main
+package factorial
 
 // FactorialIterative count factorial by iterative method
 func FactorialIterative(num int) int {

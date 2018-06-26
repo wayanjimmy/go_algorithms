@@ -1,4 +1,4 @@
-package main
+package bubblesort
 
 func swap(a []int, i, j int) {
 	tmp := a[j]

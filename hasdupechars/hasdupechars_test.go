@@ -1,4 +1,4 @@
-package main
+package hasdupechars
 
 import "testing"
 
