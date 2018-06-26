@@ -2,7 +2,7 @@ package fizzbuzz
 
 import "strconv"
 
-func FizzBuz(value int) string {
+func FizzBuzz(value int) string {
 	if value%3 == 0 && value%5 == 0 {
 		return "FizzBuzz"
 	}
